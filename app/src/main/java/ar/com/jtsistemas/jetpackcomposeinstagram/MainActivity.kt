@@ -8,8 +8,8 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
-import ar.com.jtsistemas.jetpackcomposeinstagram.login.LoginScreen
-import ar.com.jtsistemas.jetpackcomposeinstagram.login.LoginViewModel
+import ar.com.jtsistemas.jetpackcomposeinstagram.login.ui.LoginScreen
+import ar.com.jtsistemas.jetpackcomposeinstagram.login.ui.LoginViewModel
 import ar.com.jtsistemas.jetpackcomposeinstagram.ui.theme.JetpackComposeInstagramTheme
 
 class MainActivity : ComponentActivity() {

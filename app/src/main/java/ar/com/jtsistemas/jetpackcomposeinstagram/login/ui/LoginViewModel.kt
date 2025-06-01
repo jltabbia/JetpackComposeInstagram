@@ -1,4 +1,4 @@
-package ar.com.jtsistemas.jetpackcomposeinstagram.login
+package ar.com.jtsistemas.jetpackcomposeinstagram.login.ui
 
 import android.util.Patterns
 import androidx.lifecycle.LiveData
